@@ -12,13 +12,8 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
-    <a href="https://hackerone.com/mfs3curity?type=user" target="_black"><img src="https://img.shields.io/badge/HackerOne-%23000000.svg?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"></a>
-    <a href="https://medium.com/@mfs3curity" target="_black"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-    <a href="https://reddit.com/user/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-    <a href="https://x.com/"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-    <a href="https://youtube.com/@"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-</p>
+<div align="center"> <table> <tr> <td align="center"> <a href="https://hackerone.com/mfs3curity?type=user" target="_blank"> <img src="https://img.shields.io/badge/-HackerOne-000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile"> </a> </td> <td align="center"> <a href="https://medium.com/@mfs3curity" target="_blank"> <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"> </a> </td> <td align="center"> <a href="https://reddit.com/user/" target="_blank"> <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Profile"> </a> </td> <td align="center"> <a href="https://x.com/" target="_blank"> <img src="https://img.shields.io/badge/-X-000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile"> </a> </td> <td align="center"> <a href="https://youtube.com/@" target="_blank"> <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"> </a> </td> </tr> </table> </div>
+
 
 ---
 
