@@ -8,12 +8,6 @@
     <p>Hi! I'm a passionate penetration tester and security engineer with a focus on automation, bug hunting, and code review. Skilled in Go, JavaScript, and PHP, I'm constantly exploring new tools and technologies to enhance my work in cybersecurity.</p>
 </div>
 
----
-
-### 🌐 Connect with Me
-
-<div align="center"> <table> <tr> <td align="center"> <a href="https://hackerone.com/mfs3curity?type=user" target="_blank"> <img src="https://img.shields.io/badge/-HackerOne-000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile"> </a> </td> <td align="center"> <a href="https://medium.com/@mfs3curity" target="_blank"> <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"> </a> </td> <td align="center"> <a href="https://reddit.com/user/" target="_blank"> <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Profile"> </a> </td> <td align="center"> <a href="https://x.com/" target="_blank"> <img src="https://img.shields.io/badge/-X-000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile"> </a> </td> <td align="center"> <a href="https://youtube.com/@" target="_blank"> <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"> </a> </td> </tr> </table> </div>
-
 
 ---
 
